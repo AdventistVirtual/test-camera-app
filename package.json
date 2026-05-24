@@ -1,0 +1,9 @@
+{
+  "name": "duallens-camera",
+  "private": true,
+  "version": "1.0.0",
+  "description": "DualLens iPhone wide + telephoto camera app",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
